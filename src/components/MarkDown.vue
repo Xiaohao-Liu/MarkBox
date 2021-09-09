@@ -1468,6 +1468,9 @@ export default {
 // .full_screen_button:hover{
 //   opacity: 1;
 // }
+.vditor-ir__preview{
+  font-size:0.8rem !important;
+}
 .vditor--dark.full_screen{
     background: #24292e;
 }
