@@ -31,12 +31,12 @@ First, set a json of settings of `pm2`:
 	"apps":[
 		{
 		"name":"MarkBox",
-		"script":"/opt/MarkBox/server.js", // the absolute position of your serve app.
+		"script":"/opt/MarkBox/server.js", 
 		"env":{
-			"GITEE_USER":"Xiaohao", //User Name
-			"GITEE_TOKEN":"xxxxxx", //token 
-			"MINDBOX_REPO":"xxxxxx", //repos
-			"MINDBOX_GITEE_ENABLE":1 // enable the Gitee (1 recommended)
+			"GITEE_USER":"Xiaohao", 
+			"GITEE_TOKEN":"xxxxxx", 
+			"MINDBOX_REPO":"xxxxxx", 
+			"MINDBOX_GITEE_ENABLE":1 
 			}
 		}
 	]
