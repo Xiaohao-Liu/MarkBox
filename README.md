@@ -42,7 +42,7 @@ First, set a json of settings of `pm2`:
 	]
 }
 ```
-Next, Start your server by pm2:
+Next, start your server by pm2:
 ```shell
 pm2 start start.json
 
