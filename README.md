@@ -4,7 +4,7 @@
 
 A Markdown application powered by **vue**, **vditor** and **element**. This app is a pure web page without any backend for data interactions. Thus, it's **convenient** to build your own markdown app.
 
-![](./pic_1.png)
+![](./pic.png)
 
 I designed the MarkBox with many necessary and useful Features as follows:
 
